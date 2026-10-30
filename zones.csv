@@ -1,0 +1,3 @@
+zone_id,eligible_kitchen_ids,delivery_minutes
+Zone_A,K01;K02,20
+Zone_B,K03,25

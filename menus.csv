@@ -1,0 +1,7 @@
+brand_id,item_id,item_name,station,prep_minutes,batch_size,price,depends_on_item_id
+B01,I01,Veg Burger,Grill,10,3,120,
+B01,I02,French Fries,Fryer,8,4,80,
+B02,I03,Noodles,Wok,12,2,150,
+B02,I04,Fried Rice,Wok,10,2,130,
+B03,I05,Chocolate Cake,Bakery,20,2,200,
+B04,I06,Salad,Cold,5,3,100,
