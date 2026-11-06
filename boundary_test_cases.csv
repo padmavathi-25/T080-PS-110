@@ -1,9 +1,0 @@
-test_id,business_rule,input_condition,expected_result
-BT01,BR-02,Two identical recipe items are placed exactly 3 minutes apart,Batching is allowed if batch capacity permits
-BT02,BR-03,A RUSH order attempts its fourth jump,The fourth jump is not allowed
-BT03,BR-05,Projected ready time is exactly 45 minutes after order time,Do not set LATE_RISK based only on the 45-minute threshold
-BT04,BR-06,Projected kitchen load is exactly 60 minutes,Do not mark THROTTLED under the greater-than-60 rule
-BT05,BR-07,Substitute price is exactly 20 rupees higher,Allow substitution
-BT06,BR-08,Cancellation occurs at the exact instant the first item starts preparation,Treat preparation as started and apply the started-item charge
-BT07,BR-09,An order contains five items,Packaging charge is 40 rupees
-BT08,BR-11,A brand has exactly 30 orders at a kitchen,Use normal rent calculation without the minimum
