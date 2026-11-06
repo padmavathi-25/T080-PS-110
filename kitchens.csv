@@ -1,9 +1,0 @@
-kitchen_id,kitchen_name,zone,operating_start,operating_end,station,capacity
-K01,Central Kitchen,Zone_A,09:00,23:00,Grill,6
-K01,Central Kitchen,Zone_A,09:00,23:00,Fryer,4
-K01,Central Kitchen,Zone_A,09:00,23:00,Cold,3
-K02,North Kitchen,Zone_A,09:00,22:00,Grill,4
-K02,North Kitchen,Zone_A,09:00,22:00,Wok,2
-K02,North Kitchen,Zone_A,09:00,22:00,Cold,3
-K03,South Kitchen,Zone_B,10:00,23:00,Grill,6
-K03,South Kitchen,Zone_B,10:00,23:00,Bakery,2
