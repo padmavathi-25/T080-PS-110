@@ -1,6 +1,0 @@
-order_id,brand_id,items,channel,zone,order_time,rush
-O001,B01,I01:2,Aggregator_A,Zone_A,10:00,false
-O002,B02,I03:1,Aggregator_B,Zone_A,10:05,true
-O003,B03,I05:1,Own_App,Zone_B,10:10,false
-O004,B01,I02:2,Aggregator_A,Zone_A,10:15,false
-O005,B04,I06:1,Own_App,Zone_A,10:20,true
