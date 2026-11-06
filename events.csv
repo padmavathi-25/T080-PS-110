@@ -1,6 +1,0 @@
-event_id,event_type,kitchen_id,order_id,item_id,event_time
-E01,STOCK_OUT,K01,,I01,10:25
-E02,CANCEL,,O002,,10:30
-E03,HANDOFF,,O001,,10:40
-E04,STOCK_OUT,K03,,I05,11:00
-E05,CANCEL,,O004,,11:10
